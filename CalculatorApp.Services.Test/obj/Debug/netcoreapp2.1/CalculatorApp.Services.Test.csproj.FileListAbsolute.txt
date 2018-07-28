@@ -1,0 +1,17 @@
+D:\CalculatorApp\CalculatorApp.Services.test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CalculatorApp\CalculatorApp.Services.test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CalculatorApp\CalculatorApp.Services.test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CalculatorApp\CalculatorApp.Services.test\bin\Debug\netcoreapp2.1\CalculatorApp.Services.Test.deps.json
+D:\CalculatorApp\CalculatorApp.Services.test\bin\Debug\netcoreapp2.1\CalculatorApp.Services.Test.runtimeconfig.json
+D:\CalculatorApp\CalculatorApp.Services.test\bin\Debug\netcoreapp2.1\CalculatorApp.Services.Test.runtimeconfig.dev.json
+D:\CalculatorApp\CalculatorApp.Services.test\bin\Debug\netcoreapp2.1\CalculatorApp.Services.Test.dll
+D:\CalculatorApp\CalculatorApp.Services.test\bin\Debug\netcoreapp2.1\CalculatorApp.Services.Test.pdb
+D:\CalculatorApp\CalculatorApp.Services.test\bin\Debug\netcoreapp2.1\calculatorapp.services.dll
+D:\CalculatorApp\CalculatorApp.Services.test\bin\Debug\netcoreapp2.1\calculatorapp.services.pdb
+D:\CalculatorApp\CalculatorApp.Services.test\obj\Debug\netcoreapp2.1\CalculatorApp.Services.Test.csprojAssemblyReference.cache
+D:\CalculatorApp\CalculatorApp.Services.test\obj\Debug\netcoreapp2.1\CalculatorApp.Services.Test.csproj.CoreCompileInputs.cache
+D:\CalculatorApp\CalculatorApp.Services.test\obj\Debug\netcoreapp2.1\CalculatorApp.Services.Test.AssemblyInfoInputs.cache
+D:\CalculatorApp\CalculatorApp.Services.test\obj\Debug\netcoreapp2.1\CalculatorApp.Services.Test.AssemblyInfo.cs
+D:\CalculatorApp\CalculatorApp.Services.test\obj\Debug\netcoreapp2.1\CalculatorApp.Services.Test.csproj.CopyComplete
+D:\CalculatorApp\CalculatorApp.Services.test\obj\Debug\netcoreapp2.1\CalculatorApp.Services.Test.dll
+D:\CalculatorApp\CalculatorApp.Services.test\obj\Debug\netcoreapp2.1\CalculatorApp.Services.Test.pdb
